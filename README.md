@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas Eleutério 👨‍💻
+### Olá, seja muito bem-vindo! Eu sou o Lucas Eleutério 👨‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lucas-eleutério-1a9759254)
 
@@ -6,8 +6,9 @@
 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFigueired0&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasfigueired0)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que mais utilizo
+### Tecnologias que utilizo
 
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
