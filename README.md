@@ -4,8 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_eleuteri0/)
 
-<img alt="profile-image" width="280" height="280" src="https://user-images.githubusercontent.com/100170505/217152745-909650d3-11f0-4221-a019-b6d381fd34da.gif"></img>
-
+<img alt="profile-image" width="195" height="195" src="https://user-images.githubusercontent.com/100170505/217152745-909650d3-11f0-4221-a019-b6d381fd34da.gif"></img>
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFigueired0&show_icons=true&theme=dark)
 
 ### Tecnologias que utilizo
