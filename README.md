@@ -1,4 +1,4 @@
-### Olá, seja muito bem-vindo! 👨‍💻
+### Olá! Eu sou o Lucas Eleutério e seja bem-vindo ao meu Github! 👨🏻‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPLFP2ThtS2%2BuCp9y5mFqLw%3D%3D)
 
