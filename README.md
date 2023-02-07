@@ -23,7 +23,7 @@
 </div>
 <br />
 
-<div><em>Escrever código não significa nada, solucionar problemas sim!</em> </div>
+<div><em>Escrever código não significa nada se o problema não for solucionado!</em> </div>
 
 <br>
 
