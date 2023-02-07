@@ -26,4 +26,4 @@
 
 <br>
 
-#### Email de contato: lucasfigueleut@gmail.com
+#### Email de contato: lucasfigeleut@gmail.com
