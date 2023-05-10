@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPLFP2ThtS2%2BuCp9y5mFqLw%3D%3D)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_eleuteri0/)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_eleuteri0/) -->
 
 <img alt="profile-image" width="195" height="195" src="https://user-images.githubusercontent.com/100170505/217329421-6b8af9a6-7e5c-4e24-8de1-aae08bd86520.gif"></img>
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFigueired0&show_icons=true&theme=dark)
